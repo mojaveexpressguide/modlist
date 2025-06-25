@@ -1,0 +1,40 @@
+[
+  {
+    "$type": "ModListMetadata, Wabbajack.Lib",
+    "title": "Mojave Express Wabbajack (MEW)",
+    "description": "The Mojave Express Wabbajack (MEW) is a modlist for Fallout: New Vegas with the goal of creating a modernised and improved version of the base game, with a strong focus on balance and immersion.",
+    "author": "Biggie404",
+    "maintainers": [
+      "github/mojaveexpressguide"
+    ],
+    "game": "FalloutNewVegas",
+    "tags": [
+      "SFW",
+      "Steam",
+      "GOG",
+      "Vanilla+",
+      "DLC Required"
+    ],
+    "nsfw": false,
+    "image_contains_title": false,
+    "force_down": false,
+    "links": {
+      "$type": "Links, Wabbajack.Lib",
+      "image": "https://raw.githubusercontent.com/mojaveexpressguide/mojaveexpressguide.github.io/refs/heads/main/static/img/MEWSocialCard.webp",
+      "readme": "https://mojaveexpressguide.com/docs/Introduction",
+      "download": "https://authored-files.wabbajack.org/Mojave%20Express%20Wabbajack%20(MEW).wabbajack_39190d30-4b06-4c37-b743-1ef4d034eb84",
+      "machineURL": "MojaveExpressWabbajack",
+      "discordURL": "https://discord.gg/SFpZYpAuUz"
+    },
+    "download_metadata": {
+      "$type": "DownloadMetadata, Wabbajack.Lib",
+      "Hash": "Fgf7nPYvhz0=",
+      "Size": 253188567,
+      "NumberOfArchives": 337,
+      "SizeOfArchives": 10972134148,
+      "NumberOfInstalledFiles": 34298,
+      "SizeOfInstalledFiles": 17101071907
+    },
+    "version": "1.0.0"
+  }
+]
