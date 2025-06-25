@@ -20,7 +20,7 @@
     "force_down": false,
     "links": {
       "$type": "Links, Wabbajack.Lib",
-      "image": "https://raw.githubusercontent.com/mojaveexpressguide/mojaveexpressguide.github.io/refs/heads/main/static/img/MEWSocialCard.webp",
+      "image": "https://raw.githubusercontent.com/mojaveexpressguide/mojaveexpressguide.github.io/main/static/img/MEWSocialCard.webp",
       "readme": "https://mojaveexpressguide.com/docs/Introduction",
       "download": "https://authored-files.wabbajack.org/Mojave%20Express%20Wabbajack%20(MEW).wabbajack_39190d30-4b06-4c37-b743-1ef4d034eb84",
       "machineURL": "MojaveExpressWabbajack",
