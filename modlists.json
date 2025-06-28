@@ -1,40 +1,45 @@
 [
   {
-    "$type": "ModListMetadata, Wabbajack.Lib",
     "title": "Mojave Express Wabbajack (MEW)",
     "description": "The Mojave Express Wabbajack (MEW) is a modlist for Fallout: New Vegas with the goal of creating a modernised and improved version of the base game, with a strong focus on balance and immersion.",
     "author": "Biggie404",
     "maintainers": [
       "github/mojaveexpressguide"
     ],
-    "game": "FalloutNewVegas",
+    "game": "falloutnewvegas",
+    "official": false,
     "tags": [
       "SFW",
       "Steam",
       "GOG",
-      "Vanilla+",
+      "Vanilla\u002B",
       "DLC Required"
     ],
     "nsfw": false,
+    "utility_list": false,
     "image_contains_title": false,
+    "DisplayVersionOnlyInInstallerView": false,
     "force_down": false,
     "links": {
-      "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/mojaveexpressguide/mojaveexpressguide.github.io/main/static/img/MEWSocialCard.webp",
       "readme": "https://mojaveexpressguide.com/docs/Introduction",
-      "download": "https://authored-files.wabbajack.org/Mojave%20Express%20Wabbajack%20(MEW).wabbajack_39190d30-4b06-4c37-b743-1ef4d034eb84",
+      "download": "https://authored-files.wabbajack.org/Mojave Express Wabbajack (MEW).wabbajack_d914714d-e2a7-43c7-b2be-52a3330c0c64",
       "machineURL": "MojaveExpressWabbajack",
-      "discordURL": "https://discord.gg/SFpZYpAuUz"
+      "discordURL": "https://discord.gg/SFpZYpAuUz",
+      "websiteURL": ""
     },
     "download_metadata": {
-      "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "Fgf7nPYvhz0=",
-      "Size": 253188567,
-      "NumberOfArchives": 337,
-      "SizeOfArchives": 10972134148,
-      "NumberOfInstalledFiles": 34298,
-      "SizeOfInstalledFiles": 17101071907
+      "Hash": "xB2QXgsDjWE=",
+      "Size": 246396118,
+      "NumberOfArchives": 336,
+      "SizeOfArchives": 10971344664,
+      "NumberOfInstalledFiles": 34293,
+      "SizeOfInstalledFiles": 17100472661,
+      "TotalSize": 28071817325
     },
-    "version": "1.0.0"
+    "version": "1.1",
+    "dateCreated": "1970-01-01T00:00:00Z",
+    "dateUpdated": "2025-06-28T21:03:58.8121915Z",
+    "repositoryName": ""
   }
 ]
