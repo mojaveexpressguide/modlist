@@ -23,23 +23,23 @@
     "links": {
       "image": "https://raw.githubusercontent.com/mojaveexpressguide/mojaveexpressguide.github.io/main/static/img/MEWSocialCard.webp",
       "readme": "https://mojaveexpressguide.com/docs/Introduction",
-      "download": "https://authored-files.wabbajack.org/Mojave Express Wabbajack (MEW).wabbajack_ff47b829-442e-40b2-a6bd-3436aef2a303",
+      "download": "https://authored-files.wabbajack.org/Mojave Express Wabbajack (MEW).wabbajack_e970131b-9e5a-4657-9c81-1501cfec8d73",
       "machineURL": "MojaveExpressWabbajack",
       "discordURL": "https://discord.gg/SFpZYpAuUz",
       "websiteURL": ""
     },
     "download_metadata": {
-      "Hash": "1nlPwgAWVAU=",
-      "Size": 478774514,
+      "Hash": "VcneeQCmC3A=",
+      "Size": 478774943,
       "NumberOfArchives": 382,
       "SizeOfArchives": 13934339794,
       "NumberOfInstalledFiles": 83646,
       "SizeOfInstalledFiles": 20191967164,
       "TotalSize": 34126306958
     },
-    "version": "1.5.4.1",
+    "version": "1.5.4.2",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2026-01-08T13:42:26.1551598Z",
+    "dateUpdated": "2026-01-08T13:52:28.4492695Z",
     "repositoryName": ""
   }
 ]
